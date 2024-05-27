@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Renan
 
-- :game_die: Tenho interesse na área de análise de dados
-- :robot: Aprendendo mais sobre IA e Machine Learning
+- :game_die: 
+- :robot:
 <div align="center">
   <a href="https://github.com/JohnBirdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMonteiroS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
